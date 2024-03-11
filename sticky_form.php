@@ -10,4 +10,5 @@ Fahrenheit temperature:
 <?php if (!is_null($fahrenheit)) {
 $celsius = ($fahrenheit - 32) * 5 / 9;
 printf("%.2fF is %.2fC", $fahrenheit, $celsius);
+printf("git oorcloltiig harav");
 } ?>
