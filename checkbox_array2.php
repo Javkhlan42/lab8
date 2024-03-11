@@ -17,6 +17,7 @@ echo "{$label}<br />\n";
 }
 }
 // the list of values and labels for the checkboxes
+// dsafds 
 $personalityAttributes = array(
     'perky' => "Perky",
     'morose' => "Morose",
